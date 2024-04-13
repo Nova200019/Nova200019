@@ -12,9 +12,9 @@
  
  🔭 I’m currently working in **German Aerospace Center**
  
- 🌱 I’m currently learning **Docker, Redis, Azure**
+ 🌱 I’m currently learning **Kubernetes, Redis, Azure**
 
-💬 Ask me about **Node.js, Django, React, or anything [here](mailto://soumyadip.banerjee@philosopherscode.de)**
+💬 Ask me about **AI, Java, Spring-boot, Node.js, Django, React, Computer Vision or anything [here](mailto://soumyadip.banerjee@philosopherscode.de)**
 
 
  </div>
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,django,python,html,css,github,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,gstreamer,opencv,java,mongodb,c,c++,java,nextjs,mysql,docker" /><br>
 </div>
 
 <br/>
