@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,django,python,html,css,github,tailwind,git,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,gstreamer,opencv,java,mongodb,c,c++,java,nextjs,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,gstreamer,opencv,java,spring,mongodb,c,c++,java,nextjs,mysql,docker" /><br>
 </div>
 
 <br/>
