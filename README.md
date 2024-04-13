@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working in **German Aerospace Center**
+ 🔭 I’m currently working at **German Aerospace Center**
  
  🌱 I’m currently learning **Kubernetes, Redis, Azure**
 
