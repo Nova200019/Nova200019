@@ -12,7 +12,7 @@
  
  🔭 I’m currently working at **German Aerospace Center**
  
- 🌱 I’m currently learning **Kubernetes, Redis, Azure**
+ 🌱 I’m currently learning **Kubernetes, Redis, Azure, AWS**
 
 💬 Ask me about **AI, Java, Spring-boot, Node.js, Django, React, Computer Vision or anything [here](mailto://soumyadip.banerjee@philosopherscode.de)**
 
