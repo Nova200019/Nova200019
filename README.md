@@ -23,7 +23,7 @@
   <a href="mailto:soumyadip.banerjee@philosopherscode.de">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://www.linkedin.com/in/philosopherscode?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3Km%2FwPNSTF296c5kDB8LOw%3D%3D]" target="_blank">
+  <a href="[https://www.linkedin.com/in/philosopherscode]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://philosopherscode.de" target="_blank">
@@ -33,11 +33,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech-Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,django,python,html,css,github,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,gstreamer,opencv,java,mongodb,c,c++,java,nextjs,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,django,python,html,css,github,tailwind,git,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,gstreamer,opencv,java,mongodb,c,c++,java,nextjs,mysql,docker" /><br>
 </div>
 
 <br/>
