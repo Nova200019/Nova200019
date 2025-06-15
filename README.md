@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:soumyadip.banerjee@philosopherscode.de">
+  <a href="mailto:gkksdn79vf@privaterelay.appleid.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/philosopherscode" target="_blank">
